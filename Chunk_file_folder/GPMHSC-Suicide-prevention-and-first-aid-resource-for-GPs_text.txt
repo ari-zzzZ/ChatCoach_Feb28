@@ -1,0 +1,1299 @@
+chunk 1 (Number of characters: 298):
+Suicide prevention and first aid:  
+A resource for GPs
+Early detection of risk – Suicide and the relationship 
+with mental disorders
+Early intervention for mental health issues is important in maximising the wellbeing of patients.6 On average, GPs see 
+more than 80% of the population each year.5
+
+--------------------------------------------------
+
+chunk 2 (Number of characters: 254):
+Therefore, the primary care setting is the ideal place for mental health 
+issues to be detected and responded to, the risk to be assessed, and for people to seek help as early as possible to 
+prevent mental health issues and disorders leading to suicide.
+
+--------------------------------------------------
+
+chunk 3 (Number of characters: 187):
+It is important that GPs have the knowledge and skills to recognise when a patient might be experiencing mental health 
+issues and to investigate whether they might be at risk of suicide.
+
+--------------------------------------------------
+
+chunk 4 (Number of characters: 120):
+Undertaking regular mental health education and 
+training is vital to ensuring your skills and knowledge are up to date.
+
+--------------------------------------------------
+
+chunk 5 (Number of characters: 87):
+Access the GPMHSC website at  
+www.gpmhsc.org.au for accredited education and training.
+
+--------------------------------------------------
+
+chunk 6 (Number of characters: 594):
+Below you will find useful information and further reading about the specific risk factors for suicide, one of which is 
+mental disorders. Also included are some specific warning signs that might indicate someone is thinking about suicide. Suicide
+People who are contemplating suicide will often give some clues or signs to those around them, including friends, family, 
+colleagues, their GP or other mental health professionals.7 Preventing suicide starts with recognising and acting on 
+warning signs, which usually occur in combination, and being aware of the specific risk factors involved.
+
+--------------------------------------------------
+
+chunk 7 (Number of characters: 86):
+It should be 
+noted, however, that in some cases there might not be any warning signs.
+
+--------------------------------------------------
+
+chunk 8 (Number of characters: 156):
+Did you know …
+In 2013, 65,000 people attempted suicide in Australia, and in 2014, 2864 lives were lost by suicide.4 That is almost eight 
+people every day.
+
+--------------------------------------------------
+
+chunk 9 (Number of characters: 250):
+Risk factors
+Risk factors for suicide include:
+•	 previous suicide attempt(s)
+•	 substance abuse
+•	 low/limited social support
+•	 male gender
+•	 a feeling of hopelessness/absolute despair
+•	 having lost a family member to suicide
+•	 mental disorders.
+
+--------------------------------------------------
+
+chunk 10 (Number of characters: 180):
+Protective factors
+Personal protective factors include: 
+•	 adaptive coping skills
+•	 effective problem solving skills
+•	 self-understanding
+•	 sense of competence
+•	 spirituality.
+
+--------------------------------------------------
+
+chunk 11 (Number of characters: 247):
+3
+Suicide prevention and first aid:  
+A resource for GPs
+Work protective factors include:
+•	 supportive work environment
+•	 positive relationships with colleagues
+•	 professional development opportunities
+•	 access to employee assistance programs.
+
+--------------------------------------------------
+
+chunk 12 (Number of characters: 203):
+Family and community protective factors include:
+•	 relationship to family
+•	 sense of responsibility 
+•	 involvement in social/community activities/support group
+•	 access to support within their means.
+
+--------------------------------------------------
+
+chunk 13 (Number of characters: 372):
+Suicide warning signs
+Does your patient describe any of the following?
+•	 Quitting activities that were once important
+•	 Withdrawing from family/friends
+•	 Writing a suicide note or goodbye letter to people
+•	 A sense of hopelessness or no hope for the future
+•	 Isolation or feeling alone – ‘No one understands me’
+•	 Aggressiveness and irritability – ‘Leave me alone’
+•
+
+--------------------------------------------------
+
+chunk 14 (Number of characters: 641):
+Possessing lethal means – medication, weapons
+•	 Negative view of self – ‘I am worthless’
+•	 Drastic changes in mood and behaviour
+•	 Frequently talking about death – ‘If I died would you miss me?’
+•	 Self-harming behaviours (eg cutting)
+•	 Engaging in ‘risky’ behaviours – ‘I’ll try anything, I’m not afraid to die’
+•	 Making funeral arrangements
+•	 Giving things away (clothes, expensive gifts) – ‘When I am gone, I want you to have this’
+•	 Substance abuse
+•	 Feeling like a burden to others – ‘You would be better off without me’
+•	 Making suicide threats – ‘Sometimes I feel like I just want to die’
+
+4
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 15 (Number of characters: 662):
+A resource for GPs
+The videos below present some common warning signs of suicide and thoughts and feelings experienced by people 
+who were at risk of suicide. beyondblue – Suicide warning signs, www.beyondblue.org.au/the-facts/suicide/worried-about-suicide/what-are-the-warning-signs 
+beyondblue – Suicidal thoughts, www.beyondblue.org.au/the-facts/suicide/worried-about-suicide/what-are-the-warning-signs/common-
+warning-signs
+Risk factor – Mental disorders
+Literature suggests that there is a significant correlation between suicide and diagnosed mood disorders; notably mood, 
+substance-related, anxiety and psychotic disorders with comorbidity being common.3
+
+--------------------------------------------------
+
+chunk 16 (Number of characters: 166):
+It is important that GPs be able to 
+detect the key warning signs and assess for mental disorders. 6
+Suicide prevention and first aid:  
+A resource for GPs
+Depression
+
+--------------------------------------------------
+
+chunk 17 (Number of characters: 401):
+Did you know …
+The mortality risk for suicide associated with depression is many times the general population risk.3
+Research indicates that somatic symptoms are the commonest presenting features of depression in high-income 
+countries8 and that patients with mental health problems usually present to GPs with physical health problems.9 Look 
+out for headache, nausea, muscular and skeletal pain, and
+
+--------------------------------------------------
+
+chunk 18 (Number of characters: 11):
+insomnia.10
+
+--------------------------------------------------
+
+chunk 19 (Number of characters: 150):
+It is also worth noting that these physical 
+symptoms are often overlooked in older patients where such complaints might not seem out of the ordinary.
+
+--------------------------------------------------
+
+chunk 20 (Number of characters: 1026):
+Depression warning signs 
+Does your patient describe any of the following?
+•	 Not going out as much/withdrawing from family 
+•	 Difficulty sleeping
+•	 Over sleeping
+•	 Feeling tired all the time
+•	 Feeling sick and run down
+•	 Loss or change of appetite
+•	 Significant weight loss/gain
+•	 Difficulty concentrating
+•	 Reliance on substances
+•	 Feeling overwhelmed, guilty, unhappy, sad, frustrated, irritable etc
+•	 Thoughts of failure
+Further reading and resources
+Australian Psychological Society (APS) – Depression tip sheet, www.psychology.org.au/publications/tip_sheets/depression
+Black Dog Institute – Patient resource,  
+www.blackdoginstitute.org.au/clinical-resources/depression/types-of-depression
+headspace – Youth mental health information,  
+www.headspace.org.au/young-people/understanding-and-dealing-with-depression-for-young-people/
+headspace – Youth mental health video, www.youtube.com/watch?v=GjK6yfpxaew 
+Reynolds J, Griffiths K, Christensen H. Anxiety and depression: Online resources and managements tools.
+
+--------------------------------------------------
+
+chunk 21 (Number of characters: 129):
+Aust Fam 
+Physician 2011;40(6):382–86, www.racgp.org.au/afp/2011/june/anxiety-and-depression
+
+7
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 22 (Number of characters: 41):
+A resource for GPs
+Anxiety
+Did you know …
+
+--------------------------------------------------
+
+chunk 23 (Number of characters: 302):
+Anxiety disorders are the most common mental health disorders in Australia, affecting 14.4% of the population.11
+Anxiety has been shown to be an independent risk factor for suicide.12
+Physical illness can trigger anxiety or complicate the treatment of either the anxiety or the physical illness itself.
+
+--------------------------------------------------
+
+chunk 24 (Number of characters: 426):
+Examples 
+might be hormonal problems, diabetes, asthma or heart disease/conditions.13
+Anxiety warning signs
+Does your patient describe any of the following?
+•	 Hot and cold flushes
+•	 Racing heart
+•	 Tightening of the chest
+•	 Snowballing worries
+•	 Difficulty sleeping
+•	 Dizziness
+•	 Shortness of breath
+•	 Difficulty concentrating
+•	 Feeling irritable 
+Further reading and resources
+Australian Psychological Society (APS) –
+
+--------------------------------------------------
+
+chunk 25 (Number of characters: 633):
+Anxiety tip sheet, www.psychology.org.au/publications/tip_sheets/anxiety
+beyondblue – Symptoms of anxiety, www.beyondblue.org.au/the-facts/anxiety/signs-and-symptoms 
+headspace – Youth mental health resource library, Anxiety factsheet,  
+www.headspace.org.au/assets/Uploads/Mental-Illness-Fact-Sheets-mg.pdf
+Kyrios M, Moulding R, Nedeljkovic M, Anxiety disorders: Assessment and management in general practice, Aust Fam 
+Physician 2011;40(6):370–74, www.racgp.org.au/afp/2011/june/anxiety-disorders
+mindhealthconnect – Anxiety: Symptoms, treatment and causes, www.mindhealthconnect.org.au/anxiety
+
+8
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 26 (Number of characters: 1310):
+A resource for GPs
+Bipolar disorder
+Bipolar disorder
+Research indicates that the symptoms of bipolar disorder are often mistaken for, and result in a diagnosis 
+of, unipolar depression.14 This is because patients with bipolar disorder usually experience or present more 
+commonly with depressive symptoms, and might not recognise and/or report hypomanic or manic episodes.15
+Manic episodes may involve changes in mood, behaviour, energy, sleep, and cognition, and might be 
+characterised by a positive mood, irritability, inappropriate behaviour and heightened creativity.16 Did you know …
+People with bipolar disorder have a much higher risk of suicide (about eight times) than the general population.15 
+Treating misdiagnosed bipolar disorder with antidepressant medication can worsen manic and hypomanic symptoms, 
+so keep this in mind if a patient presents with depressive symptoms.17
+Further reading and resources
+Black Dog Institute – Bipolar disorder symptoms fact sheet,  
+www.blackdoginstitute.org.au/docs/Symptomsofbipolardisorder.pdf
+
+9
+Suicide prevention and first aid:  
+A resource for GPs
+Talking about suicide and mental health issues
+If you are concerned about a patient and have noticed some signals of risk, it is important to ask questions to make sure 
+you identify and act on risk factors.
+
+--------------------------------------------------
+
+chunk 27 (Number of characters: 357):
+Beginning a conversation about suicide
+Research shows that the relationship between the GP and the patient can often be one of the most important factors 
+in reducing self-harm ideation – for example, the GP demonstrating empathy and a willingness to discuss emotional 
+concerns.18
+Make reassuring statements like:
+‘It’s my job to make sure you’re doing OK.
+
+--------------------------------------------------
+
+chunk 28 (Number of characters: 83):
+I have some concerns that things might not be going so well for you at the 
+moment.
+
+--------------------------------------------------
+
+chunk 29 (Number of characters: 55):
+Is it OK if we have a bit of a chat about how you are?’
+
+--------------------------------------------------
+
+chunk 30 (Number of characters: 191):
+Sometimes it can be daunting asking difficult questions about suicide and mental illness for fear of prying, upsetting 
+the person, stigmatising your patients9 or putting ideas in their head.
+
+--------------------------------------------------
+
+chunk 31 (Number of characters: 102):
+However, the first step to supporting people 
+considering suicide is to begin a conversation about it.
+
+--------------------------------------------------
+
+chunk 32 (Number of characters: 125):
+By being calm, non-judgemental and empathetic, a GP provides 
+an opportunity for a client to discuss their suicidal thoughts.
+
+--------------------------------------------------
+
+chunk 33 (Number of characters: 155):
+They can be encouraged to tell their story, outline their 
+stresses, provide information about their history, and describe their current suicidal thoughts.
+
+--------------------------------------------------
+
+chunk 34 (Number of characters: 112):
+While everyone has their own personal communication style, being direct when asking about suicide is imperative.
+
+--------------------------------------------------
+
+chunk 35 (Number of characters: 244):
+Information about the frequency and intensity of the suicidal thinking, history of suicidal behaviour, current plans, overall 
+mental state, and level of support will inform the overall level of risk and the subsequent management plan required.
+
+--------------------------------------------------
+
+chunk 36 (Number of characters: 45):
+Some example questions are highlighted below.
+
+--------------------------------------------------
+
+chunk 37 (Number of characters: 141):
+What to ask
+•	 Do you ever feel like giving up?
+•	 How does your future seem to you?
+•	 Does your life ever seem so bad that you wish to die?
+
+--------------------------------------------------
+
+chunk 38 (Number of characters: 40):
+•	 How often do you have these thoughts?
+
+--------------------------------------------------
+
+chunk 39 (Number of characters: 49):
+How intense are they?
+•	 Have you made any plans?
+
+--------------------------------------------------
+
+chunk 40 (Number of characters: 88):
+If so, what have you been thinking about?
+•	 How close have you come to doing something?
+
+--------------------------------------------------
+
+chunk 41 (Number of characters: 39):
+•	 What stops you from doing something?
+
+--------------------------------------------------
+
+chunk 42 (Number of characters: 618):
+10
+Suicide prevention and first aid:  
+A resource for GPs
+Responding to patients who might be at risk of suicide
+If patients disclose symptoms, thoughts or feelings that might indicate a mental illness, mental health issue or suicidality, 
+some things that might help you work positively with your patients, are to:
+•	 normalise your patient’s feelings
+•	 use people first language – talk about mental health issues, mental illness and mental disorders as being separate to 
+the person, not as defining them
+•	 give patients clear messages of recovery
+•	 acknowledge how scary it must feel to have thoughts of suicide.
+
+--------------------------------------------------
+
+chunk 43 (Number of characters: 75):
+Normalising patients’ feelings
+A useful analogy …
+‘I have nothing to wear.’
+
+--------------------------------------------------
+
+chunk 44 (Number of characters: 40):
+‘But you have a closet full of clothes.’
+
+--------------------------------------------------
+
+chunk 45 (Number of characters: 115):
+To the outsider, what may seem like an irrational feeling is very real and rational for the person experiencing it.
+
+--------------------------------------------------
+
+chunk 46 (Number of characters: 49):
+It is the 
+same for those suffering from anxiety.
+
+--------------------------------------------------
+
+chunk 47 (Number of characters: 104):
+To the outsider, it might seem like the person has everything (ie a great job, family 
+and social life).
+
+--------------------------------------------------
+
+chunk 48 (Number of characters: 77):
+However, a crippling fear of one thing renders all others as inconsequential.
+
+--------------------------------------------------
+
+chunk 49 (Number of characters: 265):
+While anxiety might be seen 
+as an irrational feeling by an outsider, it might be completely rational to the person.19
+Part of the problem with the way services and the community respond to mental health issues is the stigma that 
+is associated with mental illness.
+
+--------------------------------------------------
+
+chunk 50 (Number of characters: 378):
+You can help to reduce the problems caused by stigma by normalising mental health issues and by talking about 
+mental illness/conditions/disorders the same way you would about physical illness/conditions/disorders. The information below includes mental health analogies and strategies that might assist you to normalise mental 
+health issues and reduce stigma for your patients.
+
+--------------------------------------------------
+
+chunk 51 (Number of characters: 177):
+Using ‘people first’ language
+When talking to patients about mental health issues, the language that you use can really impact how the person thinks 
+and feels about themselves.
+
+--------------------------------------------------
+
+chunk 52 (Number of characters: 213):
+It is important to talk to and about your patients (if you have consent to liaise with other 
+professionals/family members) as individual people first and not as being defined by their condition, illness or issue.
+
+--------------------------------------------------
+
+chunk 53 (Number of characters: 263):
+11
+Suicide prevention and first aid:  
+A resource for GPs
+Examples of replacing ‘illness first’ language with ‘people first’ 
+language
+Replace this: 
+‘Being bipolar doesn’t mean that you won’t be able 
+to get the job you want …’
+‘Yes, he is undoubtedly depressed.
+
+--------------------------------------------------
+
+chunk 54 (Number of characters: 60):
+I am 
+recommending a combination of medication and 
+some CBT
+
+--------------------------------------------------
+
+chunk 55 (Number of characters: 42):
+[cognitive behavioural therapy] sessions.’
+
+--------------------------------------------------
+
+chunk 56 (Number of characters: 85):
+‘Well, she is highly suicidal and I will be arranging a 
+referral to a psychiatrist.’
+
+--------------------------------------------------
+
+chunk 57 (Number of characters: 153):
+With this:
+‘Jane, living with bipolar disorder shouldn’t stop you 
+from getting the job you want ...‘
+‘Yes, David is undoubtedly experiencing depression.
+
+--------------------------------------------------
+
+chunk 58 (Number of characters: 99):
+I have discussed with him trying some CBT sessions 
+in combination with trialling some medication.’
+
+--------------------------------------------------
+
+chunk 59 (Number of characters: 115):
+‘It must feel so scary for Nicole, and for you and your 
+husband, when she has thoughts about taking her 
+own life.
+
+--------------------------------------------------
+
+chunk 60 (Number of characters: 114):
+I’d like to discuss some options with you 
+that might help you and Nicole feel more supported 
+and less isolated.’
+
+--------------------------------------------------
+
+chunk 61 (Number of characters: 1291):
+Give hope of recovery
+Most people who receive treatment and ongoing support for a mental illness can learn to adapt their life to the illness 
+(seen as recovery). It is important for mental health professionals to give patients hope of recovery, acknowledging that 
+the term ‘recovery’ has different meanings for different people and is better conceptualised as a personal journey rather 
+than as an having an end point.20 In supporting people on their personal journey to recovery, the external environment 
+(including services providing treatment and care) also has a role to play in assisting with the recovery journey. For 
+example, GPs might focus on the individual by:
+•	 acknowledging his/her strengths, talents, interests and limitations
+•	 acknowledging his/her rights to full partnership in all aspects of their recovery
+•	 promoting the rights of people to make choices regarding their own desired goals and outcomes
+•	 projecting a belief in the inherent capacity of the individual to recover.21
+While it can be the case for some people, recovery in a mental health context doesn’t necessarily mean being rid of 
+all symptoms or returning to function without the symptoms first presented (as it might be for a person recovering 
+from influenza or a chest infection, for example).
+
+--------------------------------------------------
+
+chunk 62 (Number of characters: 95):
+Rather, a person’s sense of self might include the mental illness but 
+is not determined by it.
+
+--------------------------------------------------
+
+chunk 63 (Number of characters: 271):
+Their recovery process is fostered by components of hope, self-identity, meaning in life and 
+responsibility.21
+
+12
+Suicide prevention and first aid:  
+A resource for GPs
+Is your patient struggling to see past their mental illness/issue/condition and thoughts of suicide?
+
+--------------------------------------------------
+
+chunk 64 (Number of characters: 289):
+‘It is possible for you to get through this.’
+‘You managed to get through [insert previous life challenge], so I am confident you will be able to find a way 
+through this.’
+‘I have worked with lots of other people who experienced similar feelings to you, and we have found a way 
+through.’
+
+--------------------------------------------------
+
+chunk 65 (Number of characters: 609):
+‘Living with a mental health issue is only one small part of you … don’t forget to think about your strengths and 
+other positive aspects about who you are.’
+Did you know … 
+Recovery for individuals with mental illness can mean gaining and retaining hope, understanding one’s abilities and 
+disabilities, engaging in an active life, developing personal autonomy, developing a social identity, connecting meaning 
+and purpose in life, and fostering a positive sense of self.22
+View the video, visit racgp.cachefly.net/racgp/SuicidePrevention/Suicide-
+Risk-Assessment-1.m4v
+
+13
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 66 (Number of characters: 1285):
+A resource for GPs
+Further reading and resources 
+The Analogy Bank – An analogy resource for mental health clinicians, www.theanalogybank.wordpress.com
+Department of Health – Principles of recovery oriented mental health practice, www.health.gov.au/internet/publications/
+publishing.nsf/Content/mental-pubs-i-nongov-toc~mental-pubs-i-nongov-pri 
+Government of Western Australia, Office of Mental Health – Psychiatric rehabilitation policy and strategic framework, 
+www.health.wa.gov.au/docreg/Education/Population/Health_Problems/Mental_Illness/A_recovery_vision_for_
+rehabilitation.pdf (Section 4.2)
+Mental Health Coordinating Council (MHCC) – Recovery oriented language, www.mhcc.org.au/wp-content/
+uploads/2019/08/Recovery-Oriented-Language-Guide_2019ed_v1_20190809-Web.pdf
+mindhealthconnect – Do’s and don’ts of discussing mental health issues,  
+www.mindhealthconnect.org.au/dos-and-donts-discussing-mental-health-issues 
+SANE Australia – Reducing stigma, www.sane.org/mental-health-and-illness/facts-and-guides/reducing-stigma 
+SANE Australia – Personal stories, www.sane.org/information-stories/people-like-us
+Women’s Web – Mental health analogies, www.womensweb.in/2015/07/analogies-help-one-understand-depression-
+mental-health-conditions
+
+14
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 67 (Number of characters: 816):
+A resource for GPs
+Suicide prevention – Risk assessment in general practice
+Why complete a suicide risk assessment? An effective treatment plan that supports and manages clients at risk of suicide should be informed by a thorough risk 
+assessment.23 A risk assessment is a direct conversation with a patient about their suicidal thoughts, plans and intent; it 
+is a matter-of-fact empathetic conversation that allows patients to discuss suicide openly. A suicide risk assessment brings together key information about a patient’s current mental state, any current or 
+previous risk and protective factors, any key stresses contributing to the risk, and a review of current supports. It is the 
+combination of these factors and identified warning signs that contribute to a patient’s overall level of risk for suicide.
+
+--------------------------------------------------
+
+chunk 68 (Number of characters: 186):
+GPs should consider completing a thorough risk assessment for any patients they are concerned may be at elevated 
+risk due to their current mental state and/or significant life stresses.
+
+--------------------------------------------------
+
+chunk 69 (Number of characters: 141):
+Some patients will outline their suicidal thinking 
+quite openly, while others will need encouragement to share these thoughts with their GP.
+
+--------------------------------------------------
+
+chunk 70 (Number of characters: 165):
+Often a starting point is to 
+say, ‘With all this going on, have you ever felt like life is not worth living – is this something that you have considered 
+recently?’
+
+--------------------------------------------------
+
+chunk 71 (Number of characters: 90):
+There are a range of tools that can guide GPs through the completion of a risk assessment.
+
+--------------------------------------------------
+
+chunk 72 (Number of characters: 162):
+Often the use of these 
+tools helps to collate the information, formulate the assessment information and provide the documentation required for 
+the medical file.
+
+--------------------------------------------------
+
+chunk 73 (Number of characters: 335):
+One such tool is the www.griffith.edu.au/griffith-health/australian-institute-suicide-research-prevention/
+screening-tool-for-assessing-risk-of-suicide (STARS).24 
+It should also be noted that at present, a statistically strong and reliable method to usefully distinguish patients with a 
+high risk of suicide has not been developed.25
+
+--------------------------------------------------
+
+chunk 74 (Number of characters: 246):
+There are several other general mental health assessment tools that might also assist with establishing your patients’ 
+levels of wellbeing:
+Sphere-12 
+A self-rated, 12-item tool to screen for anxiety, depression and somatisation in primary care.
+
+--------------------------------------------------
+
+chunk 75 (Number of characters: 563):
+http://webcache.googleusercontent.com/search?q=cache:aCtzMj2HvYQJ:www.gpgc.com.au/getFileLibFile.aspx%3FF
+K%3D955+&cd=1&hl=en&ct=clnk&gl=au 
+K10 anxiety and depression checklist
+A simple self-report checklist aiming to measure whether patients have been affected by depression or anxiety in the 
+past four weeks. www.beyondblue.org.au/the-facts/anxiety-and-depression-checklist-k10 
+Depression Anxiety Stress Scales (DASS)
+A 42-item self-report instrument designed to measure the three related negative emotional states of depression, anxiety 
+and tension/stress.
+
+--------------------------------------------------
+
+chunk 76 (Number of characters: 209):
+www2.psy.unsw.edu.au/dass
+
+15
+Suicide prevention and first aid:  
+A resource for GPs
+Depression self-report questionnaire (DMI-10 and DMI-18)
+Self-report measures for assessing depression in the medically ill.
+
+--------------------------------------------------
+
+chunk 77 (Number of characters: 586):
+www.blackdoginstitute.org.au/docs/default-source/psychological-toolkit/dmi-10.pdf?sfvrsn=2
+Antenatal risk questionnaire
+A clinician-administered questionnaire, designed to consider specific key risk factors thought to increase the risk of 
+women developing perinatal mental health morbidity (eg postnatal depression or anxiety disorder) and sub-optimal 
+mother infant attachment. www.blackdoginstitute.org.au/docs/default-source/psychological-toolkit/anrqclinicians.pdf?sfvrsn=2
+www.blackdoginstitute.org.au/docs/default-source/psychological-toolkit/postnatal-risk-questionnaire-(pnrq).
+
+--------------------------------------------------
+
+chunk 78 (Number of characters: 56):
+pdf?sfvrsn=0
+Edinburgh Postnatal Depression Scale (EPDS)
+
+--------------------------------------------------
+
+chunk 79 (Number of characters: 133):
+A 10-item self-report measure designed to screen women for symptoms of emotional distress during pregnancy and the 
+postnatal period.
+
+--------------------------------------------------
+
+chunk 80 (Number of characters: 114):
+www.blackdoginstitute.org.au/docs/CliniciansdownloadableEdinburgh.pdf
+The level of risk informs the treatment plan
+
+--------------------------------------------------
+
+chunk 81 (Number of characters: 205):
+It is generally agreed upon by experts in the field of suicide risk assessment, that it is the combination of warning signs, 
+risk factors and protective factors that contributes to overall suicide risk.24
+
+--------------------------------------------------
+
+chunk 82 (Number of characters: 246):
+The outcome of a risk assessment will guide what treatment and support options are required immediately to maintain a 
+patient’s safety, and what additional treatment and/or support would be useful to put in place over the coming days and 
+weeks.
+
+--------------------------------------------------
+
+chunk 83 (Number of characters: 245):
+Options for consideration include an urgent mental health assessment, a non-urgent appointment with a health 
+professional, ongoing support from the GP, increased community and peer support, or a combination of one or more of 
+these initiatives.
+
+--------------------------------------------------
+
+chunk 84 (Number of characters: 139):
+Where there is any doubt about the level of risk, GPs can contact their local crisis mental health service 
+for consultation and follow up.
+
+--------------------------------------------------
+
+chunk 85 (Number of characters: 167):
+Risk assessments provide a forum for open conversation about suicidal thinking, and can help patients to establish 
+hope and maintain a positive belief in their lives.
+
+--------------------------------------------------
+
+chunk 86 (Number of characters: 93):
+Further reading and resources
+Sivasankaran B. Mental health risk assessment: A guide for GPs.
+
+--------------------------------------------------
+
+chunk 87 (Number of characters: 156):
+Aust Fam Physician 2011;40(6):366–69,  
+www.racgp.org.au/afp/2011/june/mental-health-risk-assessment
+Hayes P. GP Communication: Suicide in general practice.
+
+--------------------------------------------------
+
+chunk 88 (Number of characters: 14):
+Good Practice.
+
+--------------------------------------------------
+
+chunk 89 (Number of characters: 479):
+August 2015,  
+www.racgp.org.au/publications/goodpractice/archive/201508/suicide-in-general-practice
+Suicide Questions Answers Resources (SQUARE) – Risk assessment questions,  
+www.square.org.au/risk-assessment/risk-assessment-questions 
+Lifeline – Facts about suicide, www.lifeline.org.au/Get-Help/Facts-and-Information
+Suicideline – Estimating the risk of suicide, www.suicideline.org.au/health-professionals/estimating-the-risk-of-suicide
+
+16
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 90 (Number of characters: 28):
+A resource for GPs
+Now what?
+
+--------------------------------------------------
+
+chunk 91 (Number of characters: 900):
+Suicide safety planning in general practice
+Introduction
+Safety planning provides a structured approach that empowers people to manage psychological distress and suicidal 
+thoughts, thus aiming to reduce their immediate risk of engaging in suicidal behaviour.26 It involves the person – ideally 
+with support from a health professional – identifying coping and help-seeking strategies that are tailored for their needs, 
+situation and personal relationships. The resulting safety plan is then used during times of distress and crisis. When to do a safety plan
+A safety plan can be a useful therapeutic tool when someone is ambivalent about living or dying, whether these thoughts 
+are vague or intense in nature, as it can help to contain distress and offer ideas for improving their mental health. Safety 
+planning is most pertinent when a GP understands the risk of suicide to be serious in nature.
+
+--------------------------------------------------
+
+chunk 92 (Number of characters: 245):
+An appointment with a GP might be the first and only contact that the person has with a health professional and as such, 
+offers a unique opportunity to influence a person’s safety and begin to create a roadmap for improving their mental health.
+
+--------------------------------------------------
+
+chunk 93 (Number of characters: 122):
+Documenting a safety plan
+A safety plan can be documented on a paper template or via e-resources such as websites or apps.
+
+--------------------------------------------------
+
+chunk 94 (Number of characters: 185):
+The BeyondNow 
+app provides a simple-to-use tool for people to refer to on their phones (download at the Apple App Store or Google 
+Play), or to complete online and email to themselves.
+
+--------------------------------------------------
+
+chunk 95 (Number of characters: 105):
+BeyondNow gives people access to their safety plan whenever they feel their level of distress increasing.
+
+--------------------------------------------------
+
+chunk 96 (Number of characters: 138):
+They can refer 
+to their safety plan at any appointments with their health professionals and share it with their family and close friends.
+
+--------------------------------------------------
+
+chunk 97 (Number of characters: 104):
+Start by downloading the app from the Apple App Store or Google Play and familiarising yourself with it.
+
+--------------------------------------------------
+
+chunk 98 (Number of characters: 115):
+You can also 
+check out a quick introduction here, to the different features, including editing and sharing a plan.
+
+--------------------------------------------------
+
+chunk 99 (Number of characters: 434):
+Apps might not be for everyone, so first consider whether using an app for safety planning is appropriate for your 
+individual patients. It is then important to consider how you are going to introduce it to your patients; including 
+information about the strengths and limitation of the app, when they might use it, as well as a reminder that this is a 
+confidential plan that they can choose to share with those they find supportive.
+
+--------------------------------------------------
+
+chunk 100 (Number of characters: 320):
+Key steps of safety planning
+When you’re supporting your patient to create their plan, asking questions can help them think about what might work 
+for their situation and ensure the identified strategies meet their individual needs. Below are a range of questions that seek to find the key information for a safety plan.
+
+--------------------------------------------------
+
+chunk 101 (Number of characters: 149):
+The BeyondNow app, and some 
+associated information on the beyondblue website, also provides these prompts to assist with the completion of the plan.
+
+--------------------------------------------------
+
+chunk 102 (Number of characters: 60):
+17
+Suicide prevention and first aid:  
+A resource for GPs
+1.
+
+--------------------------------------------------
+
+chunk 103 (Number of characters: 215):
+Recognising warning signs and personal triggering events
+Being aware of changes in thoughts, moods and behaviour that may signal a developing crisis allows the person to act 
+earlier, helping to reduce further risk.
+
+--------------------------------------------------
+
+chunk 104 (Number of characters: 120):
+Questions to ask might include:
+Warning signs might include:
+•	 How will you know when your safety plan should 
+be used?
+
+--------------------------------------------------
+
+chunk 105 (Number of characters: 233):
+•	 What are some of the difficult thoughts, feelings 
+or behaviours that you experience leading up to 
+a crisis?
+•	 Moods such as sadness, anxiety or irritability.
+•	 Thoughts involving hopelessness, helplessness, or 
+self-criticism.
+
+--------------------------------------------------
+
+chunk 106 (Number of characters: 135):
+•	 Behaviours such as drinking more alcohol than usual, 
+avoiding social situations, or arguing more often with 
+friends or loved ones.
+
+--------------------------------------------------
+
+chunk 107 (Number of characters: 185):
+2.  Creating a safe environment
+Identifying ways of keeping the person’s immediate environment safe can be achieved by reducing or eliminating their 
+access to potentially lethal means.
+
+--------------------------------------------------
+
+chunk 108 (Number of characters: 84):
+This can also include being aware of and avoiding stressful or upsetting situations.
+
+--------------------------------------------------
+
+chunk 109 (Number of characters: 452):
+Questions to ask might include:
+Restricting access to lethal means might include:
+•	 Are there any specific situations or people that you 
+find stressful or triggering, or that contribute to your 
+suicidal thoughts? •	 What things do you have access to that are likely to 
+be used in a suicide attempt?
+•	 How can we develop a plan to limit your access to 
+these means and avoid these situations?
+•	 Asking someone else to manage access to 
+medication.
+
+--------------------------------------------------
+
+chunk 110 (Number of characters: 63):
+•	 Reducing access to firearms or improving safety 
+procedures.
+
+--------------------------------------------------
+
+chunk 111 (Number of characters: 77):
+This step should always involve having a 
+support person remove any firearms.
+
+--------------------------------------------------
+
+chunk 112 (Number of characters: 68):
+•	 Getting rid of glass or blades that might be used to 
+cause harm.
+
+--------------------------------------------------
+
+chunk 113 (Number of characters: 175):
+3.  Identifying reasons to live
+Developing a list of positive things in life that bring joy and meaning or something to look forward to can help to change 
+the client’s focus.
+
+--------------------------------------------------
+
+chunk 114 (Number of characters: 232):
+Questions to ask might include:
+Reasons to live might include:
+•	 What’s the best thing about living?
+•	 What’s the most important thing in your life?
+•	 What things in your future do you look forward to?
+•	 Family, friends or pets.
+
+--------------------------------------------------
+
+chunk 115 (Number of characters: 34):
+•	 Spiritual or religious beliefs.
+
+--------------------------------------------------
+
+chunk 116 (Number of characters: 71):
+•	 Everyday pleasures such as walking on the beach or 
+enjoying nature.
+
+--------------------------------------------------
+
+chunk 117 (Number of characters: 58):
+•	 Life experiences such as having children or travelling.
+
+--------------------------------------------------
+
+chunk 118 (Number of characters: 60):
+18
+Suicide prevention and first aid:  
+A resource for GPs
+4.
+
+--------------------------------------------------
+
+chunk 119 (Number of characters: 166):
+Things I can do by myself – Internal coping strategies
+Identifying activities and internal coping strategies that an individual can do without contacting anyone else.
+
+--------------------------------------------------
+
+chunk 120 (Number of characters: 224):
+These 
+activities/strategies can help to regulate their emotions, reduce distress, change the focus of their thinking, and distract 
+themselves from suicidal ideation, potentially preventing a further escalation into crisis.
+
+--------------------------------------------------
+
+chunk 121 (Number of characters: 319):
+Questions to ask might include:
+Internal coping strategies might include:
+•	 What can you do on your own if you have suicidal 
+thoughts in the future, to avoid acting on those 
+thoughts?
+•	 What can you do to help take your mind off your 
+problems, even for a short amount of time?
+•	 Breathing or relaxation exercises.
+
+--------------------------------------------------
+
+chunk 122 (Number of characters: 50):
+•	 Going for a walk, doing yoga or other exercise.
+
+--------------------------------------------------
+
+chunk 123 (Number of characters: 64):
+•	 Watching a favourite movie or listening to a favourite 
+band.
+
+--------------------------------------------------
+
+chunk 124 (Number of characters: 34):
+•	 Playing or cuddling with a pet.
+
+--------------------------------------------------
+
+chunk 125 (Number of characters: 2):
+5.
+
+--------------------------------------------------
+
+chunk 126 (Number of characters: 644):
+Socialisations strategies for distraction and support – Connecting with people and places
+Just being around other people can help provide distraction from suicidal thoughts – this can include spending time with 
+family and friends, or going to a busy park or shopping centre. Questions to ask might include:
+Socialisation strategies might include:
+•	 Who helps you to feel good when you socialise with 
+them?
+•	 Where can you go and be around other people in a 
+safe environment?
+•	 Spending time with friends and family, remembering 
+that socialising can also include activities that don’t 
+require much talking or engagement (eg watching TV).
+
+--------------------------------------------------
+
+chunk 127 (Number of characters: 59):
+•	 A coffee shop, park, place of worship or meeting 
+group.
+
+--------------------------------------------------
+
+chunk 128 (Number of characters: 225):
+6.  Trusted contacts for assisting with a crisis – Friends and family to talk to
+The person should think carefully about who would be helpful in a crisis, and avoid listing people who could possibly 
+exacerbate the situation.
+
+--------------------------------------------------
+
+chunk 129 (Number of characters: 214):
+Questions to ask might include:
+•	 Among your friends and family, who do you feel you could talk to when you’re having suicidal thoughts?
+• Who do you feel you could contact to support you during a suicidal crisis?
+
+--------------------------------------------------
+
+chunk 130 (Number of characters: 203):
+7.  Professional contacts for assisting with a crisis
+Questions to ask might include:
+•	 Which services could you turn to for support?
+•	 What health professionals can you involve in your treatment plan?
+
+--------------------------------------------------
+
+chunk 131 (Number of characters: 141):
+19
+Suicide prevention and first aid:  
+A resource for GPs
+Some people may not wish to complete a particular step or steps in the safety plan.
+
+--------------------------------------------------
+
+chunk 132 (Number of characters: 181):
+Their plan is unique to them and is 
+all about keeping safe, so if certain steps aren’t helpful or create an additional source of burden, stress or conflict, these 
+can be left out.
+
+--------------------------------------------------
+
+chunk 133 (Number of characters: 54):
+Safety plans are designed to be followed step by step.
+
+--------------------------------------------------
+
+chunk 134 (Number of characters: 210):
+However, it’s important to reinforce with your client that if they 
+feel at imminent risk and are unable to remain safe – even for a short period of time – they should phone or present to an 
+emergency service.
+
+--------------------------------------------------
+
+chunk 135 (Number of characters: 97):
+Reviewing the safety plan
+A safety plan should be modified over time to ensure its effectiveness.
+
+--------------------------------------------------
+
+chunk 136 (Number of characters: 104):
+At a follow-up appointment GPs should ask their 
+patient:
+•	 How often they have needed to use the plan?
+
+--------------------------------------------------
+
+chunk 137 (Number of characters: 381):
+•	 What the most useful aspect of the safety plan was?
+•	 Were there any barriers to its use?
+•	 How they can continue to use the safety plan? Safety planning is a practical and accessible strategy that can assist GPs to help patients to manage difficult emotions in 
+a self-directed manner, while also guiding them as to when to seek out the support of other health professionals.
+
+--------------------------------------------------
+
+chunk 138 (Number of characters: 393):
+Safety planning resources
+Patient safety plan template: Suicide Prevention Resource Center (USA), www.sprc.org/sites/sprc.org/files/
+SafetyPlanTemplate.pdf 
+beyondblue video – offers an insight into how individuals have used safety planning on their road to recovery,  
+www.beyondblue.org.au/get-support/beyondnow-suicide-safety-planning
+The below video is a documentary titled Suicide and Me.
+
+--------------------------------------------------
+
+chunk 139 (Number of characters: 141):
+It includes personal reflections about experiences of suicidal 
+thoughts and footage of what it’s like to work at a suicide helpline service.
+
+--------------------------------------------------
+
+chunk 140 (Number of characters: 64):
+Please note, some information in this video 
+may be distressing.
+
+--------------------------------------------------
+
+chunk 141 (Number of characters: 99):
+To view the video, visit www.youtube.com/watch?v=TFs9hjMzciY 
+
+20
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 142 (Number of characters: 114):
+A resource for GPs
+Further reading and patient resources 
+Melvin GA, Gresham D, Beaton S. Safety first – Not last!
+
+--------------------------------------------------
+
+chunk 143 (Number of characters: 43):
+Suicide Safety Planning Intervention (SPI).
+
+--------------------------------------------------
+
+chunk 144 (Number of characters: 1314):
+InPsych 2016; 
+38(1):14–15, www.psychology.org.au/inpsych/2016/feb/melvin
+beyondblue – ‘Finding our way back’, a resource for Aboriginal and Torres Strait Islander peoples after a suicide attempt, 
+www.beyondblue.org.au/the-facts/suicide-prevention/recovery-and-support-strategies/support-after-a-suicide-attempt/
+finding-our-way-back
+beyondblue – ‘Finding your way back’, a resource for people who have attempted suicide, www.beyondblue.org.au/the-
+facts/suicide-prevention/recovery-and-support-strategies/support-after-a-suicide-attempt/finding-your-way-back
+beyondblue – ‘Guiding their way back’, a resource for people who are supporting someone after a suicide attempt, 
+www.beyondblue.org.au/the-facts/suicide-prevention/recovery-and-support-strategies/support-after-a-suicide-attempt/
+guiding-their-way-back
+Conversations Matter – Resources for professionals and those working with communities,  
+www.conversationsmatter.com.au/professional-resources
+Lifeline – Tool kits, www.lifeline.org.au/get-help/get-help-home
+Supporting staff to recognise and respond to risk/crises
+If you work with other staff at your practice such as reception staff, a practice manager or a practice nurse, it is 
+suggested that they are also trained and supported to be able to identify where patients might be at risk of suicide.
+
+--------------------------------------------------
+
+chunk 145 (Number of characters: 73):
+Many organisations run training for employees in mental health first aid.
+
+--------------------------------------------------
+
+chunk 146 (Number of characters: 29):
+See below for some resources.
+
+--------------------------------------------------
+
+chunk 147 (Number of characters: 382):
+Community Response to Eliminating Suicide (CORES), www.cores.org.au/contact
+LivingWorks, www.livingworks.com.au/programs
+Mental Health First Aid (MHFA) Australia, www.mhfa.com.au/cms/home
+Wesley Mission – Suicide prevention, www.wesleymission.org.au/find-a-service/mental-health-and-hospitals/suicide-
+prevention/latest-suicide-prevention-news/
+
+21
+Suicide prevention and first aid:
+
+--------------------------------------------------
+
+chunk 148 (Number of characters: 313):
+A resource for GPs
+Suicide prevention – Ongoing care for patients and  
+self-care for GPs
+Ongoing care for your patients
+Even if you’re satisfied that your patient is not at immediate risk of harm, it is still important to initiate appropriate follow-
+up to prevent gaps in the mental healthcare of your patients.
+
+--------------------------------------------------
+
+chunk 149 (Number of characters: 1198):
+Some possible follow up actions might be:
+•	 to make a plan for a follow-up appointment to develop a GP Mental Health Treatment Plan (GPMHTP)
+•	 if you’ve already prepared a GPMHTP, you might make plans to refer the patient on to an allied health professional 
+(ensure that you follow up with your patient if this is your plan of action)
+•	 to introduce a follow-up text messaging service to remind patients about a scheduled appointment or to encourage 
+them to make a follow-up appointment 
+•	 to set the patient some homework or refer them to an e-mental health resource to ensure a follow-up plan is in place
+•	 to work on some activity scheduling with your patient over the period of time until you see them next/they have an 
+appointment with an allied health practitioner
+•	 to provide some psychoeducation to your patients (and their family/carer if applicable) explaining and normalising 
+their mental health condition/issue
+•	 if you are an eligible Focused Psychological Strategies (FPS) provider, you might schedule in some FPS sessions with 
+your patient
+•	 to give your patient hope – with the right treatment, most people will be able to manage their illness and live a normal 
+life.
+
+--------------------------------------------------
+
+chunk 150 (Number of characters: 54):
+Further reading and resources
+RACGP – e-Mental health:
+
+--------------------------------------------------
+
+chunk 151 (Number of characters: 1392):
+A guide for GPs, www.racgp.org.au/your-practice/guidelines/e-mental-health
+GPMHTP templates,  
+www.gpmhsc.org.au/info/detail/8a218292-d2d3-47c0-b8a8-43ab7eddeb04/gp-mental-health-treatment
+Black Dog Institute – Supporting you through anxiety and depression, Online tool kit 
+www.blackdoginstitute.org.au/docs/default-source/education-resources/bdi_cbh_toolkit_2019_final.pdf?sfvrsn=0
+Psychoeducation
+beyondblue – Depression guide, http://resources.beyondblue.org.au/prism/file?token=BL/0556
+beyondblue – Anxiety guide, http://resources.beyondblue.org.au/prism/file?token=BL/0762
+Black Dog Institute – Understanding your depressive episode,  
+www.blackdoginstitute.org.au/clinical-resources/depression/types-of-depression
+Activity scheduling and other clinical interventions
+Centre for Clinical Interventions – GP resources, www.cci.health.wa.gov.au/resources/doctors.cfm 
+Department of Health – Phase 5: Pleasant event and activity scheduling, www.health.gov.au/internet/publications/
+publishing.nsf/Content/drugtreat-pubs-cogamph-toc~drugtreat-pubs-cogamph-3~drugtreat-pubs-cogamph-3-
+3~drugtreat-pubs-cogamph-3-3-5#act
+
+22
+Suicide prevention and first aid:  
+A resource for GPs
+Ongoing care for you
+It is important for GPs who spend a lot of time working with patients with mental health issues/people at risk of suicide, 
+to be mindful of their own mental health and their risk of burnout.
+
+--------------------------------------------------
+
+chunk 152 (Number of characters: 710):
+Burnout is a syndrome of emotional exhaustion, 
+depersonalisation and reduced personal accomplishment that can occur among individuals who work with people in 
+some capacity.27 
+Burnout might occur when GPs face repeated exposure to traumatic and distressing experiences of others28 and highly 
+stressful situations such as working with a patient who is at high risk of suicide. It has been suggested that GPs are 
+less likely to suffer from burnout when they regularly engage in educational activities to maintain, develop or increase 
+their knowledge and skills.29 To reduce the risk of burnout, ensure you include some self-care strategies as part of your 
+ongoing continuing professional development (CPD).
+
+--------------------------------------------------
+
+chunk 153 (Number of characters: 582):
+Reducing the risk of burnout
+•	 Seek out supervision/consultation (individual or group) 
+•	 Make time for activities that are relaxing or de-stressing, such as exercise, spending time with friends, hobbies
+•	 Engage in regular mental health CPD activities, such as small group learning sessions
+Further reading and patient resources
+Black Dog Institute – Self-care webinar for GPs, www.medcast.com.au/courses/10-online-self-care-for-doctors?utm_
+source=medcast&utm_medium=website&utm_campaign=online-self-care-for-doctors&utm_content=courses-pag
+The National Rural Health Alliance –
+
+--------------------------------------------------
+
+chunk 154 (Number of characters: 188):
+Case studies on rural GP self-care, www.ruralhealth.org.au/7thNRHC/Papers/
+general%20papers/roach.pdf
+RACGP – Abuse and violence: Working with our patients in general practice, Chapter 14.
+
+--------------------------------------------------
+
+chunk 155 (Number of characters: 388):
+The doctor and the 
+importance of self-care,  
+www.racgp.org.au/FSDEDEV/media/documents/Clinical%20Resources/Guidelines/Whitebook/Abuse-and-violence-
+working-with-our-patients-in-general-practice.pdf
+Psychiatric Times – Patient suicide: Impact on clinicians,  
+www.psychiatrictimes.com/special-reports/patient-suicide-impact-clinicians/page/0/1#sthash.sOauzTfC.dpuf
+
+She'd stopped eating.
+
+--------------------------------------------------
+
+chunk 156 (Number of characters: 48):
+She'd
+
+often come to school every day telling me
+
+--------------------------------------------------
+
